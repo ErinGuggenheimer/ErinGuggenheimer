@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erin
 - 🌱 I’m currently learning more coding languages
-Email: Eringuggenheimer1@gmail.com
+Email: Eringuggen@gmail.com
 
 <!---
 ErinGuggenheimer/ErinGuggenheimer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
